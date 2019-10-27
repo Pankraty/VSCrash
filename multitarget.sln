@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "multitarget", "multitarget\multitarget.csproj", "{F83017ED-BFCF-40DB-8177-1609B3051666}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug.19|Any CPU = Debug.19|Any CPU
+		Debug.20|Any CPU = Debug.20|Any CPU
+		Debug.21|Any CPU = Debug.21|Any CPU
+		Debug.22|Any CPU = Debug.22|Any CPU
+		Debug.23|Any CPU = Debug.23|Any CPU
+		Release.19|Any CPU = Release.19|Any CPU
+		Release.20|Any CPU = Release.20|Any CPU
+		Release.21|Any CPU = Release.21|Any CPU
+		Release.22|Any CPU = Release.22|Any CPU
+		Release.23|Any CPU = Release.23|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.19|Any CPU.ActiveCfg = Debug.19|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.19|Any CPU.Build.0 = Debug.19|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.20|Any CPU.ActiveCfg = Debug.20|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.20|Any CPU.Build.0 = Debug.20|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.21|Any CPU.ActiveCfg = Debug.21|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.21|Any CPU.Build.0 = Debug.21|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.22|Any CPU.ActiveCfg = Debug.22|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.22|Any CPU.Build.0 = Debug.22|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.23|Any CPU.ActiveCfg = Debug.23|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Debug.23|Any CPU.Build.0 = Debug.23|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.19|Any CPU.ActiveCfg = Release.19|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.19|Any CPU.Build.0 = Release.19|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.20|Any CPU.ActiveCfg = Release.20|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.20|Any CPU.Build.0 = Release.20|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.21|Any CPU.ActiveCfg = Release.21|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.21|Any CPU.Build.0 = Release.21|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.22|Any CPU.ActiveCfg = Release.22|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.22|Any CPU.Build.0 = Release.22|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.23|Any CPU.ActiveCfg = Release.23|Any CPU
+		{F83017ED-BFCF-40DB-8177-1609B3051666}.Release.23|Any CPU.Build.0 = Release.23|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {746EFD22-CC9B-49A9-9714-96ECA47AD946}
+	EndGlobalSection
+EndGlobal
